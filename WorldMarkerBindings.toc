@@ -1,0 +1,7 @@
+## Interface: 110207, 120000, 120001
+## Title: World Marker Bindings
+## Notes: Adds keybinds for world markers
+## Author: Kyle
+## Version: 1.0
+
+Bindings.lua
