@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to RPG Boss Bar will be documented in this file.
+All notable changes to World Marker Bindings will be documented in this file.
 
 ## [12.0.1-2] - 2026-02-03
 
