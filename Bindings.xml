@@ -1,13 +1,13 @@
 <Bindings>
-	<Binding name="CLICK WMB_WM5:LeftButton" category="World Marker Bindings" />
-	<Binding name="CLICK WMB_WM6:LeftButton" category="World Marker Bindings" />
-	<Binding name="CLICK WMB_WM3:LeftButton" category="World Marker Bindings" />
-	<Binding name="CLICK WMB_WM2:LeftButton" category="World Marker Bindings" />
-	<Binding name="CLICK WMB_WM7:LeftButton" category="World Marker Bindings" />
-	<Binding name="CLICK WMB_WM1:LeftButton" category="World Marker Bindings" />
-	<Binding name="CLICK WMB_WM4:LeftButton" category="World Marker Bindings" />
-	<Binding name="CLICK WMB_WM8:LeftButton" category="World Marker Bindings" />
-	<Binding name="CLICK WMB_CLEAR:LeftButton" category="World Marker Bindings" />
+	<Binding name="CLICK WMB_WM5:LeftButton"       category="World Marker Bindings" />
+	<Binding name="CLICK WMB_WM6:LeftButton"       category="World Marker Bindings" />
+	<Binding name="CLICK WMB_WM3:LeftButton"       category="World Marker Bindings" />
+	<Binding name="CLICK WMB_WM2:LeftButton"       category="World Marker Bindings" />
+	<Binding name="CLICK WMB_WM7:LeftButton"       category="World Marker Bindings" />
+	<Binding name="CLICK WMB_WM1:LeftButton"       category="World Marker Bindings" />
+	<Binding name="CLICK WMB_WM4:LeftButton"       category="World Marker Bindings" />
+	<Binding name="CLICK WMB_WM8:LeftButton"       category="World Marker Bindings" />
+	<Binding name="CLICK WMB_CLEAR:LeftButton"     category="World Marker Bindings" />
 	<Binding name="CLICK WMB_WM5CURSOR:LeftButton" category="World Marker Bindings" />
 	<Binding name="CLICK WMB_WM6CURSOR:LeftButton" category="World Marker Bindings" />
 	<Binding name="CLICK WMB_WM3CURSOR:LeftButton" category="World Marker Bindings" />

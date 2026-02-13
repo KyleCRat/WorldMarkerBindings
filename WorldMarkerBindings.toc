@@ -2,6 +2,6 @@
 ## Title: World Marker Bindings
 ## Notes: Adds keybinds for world markers
 ## Author: Yvairel
-## Version: 12.0.1-1
+## Version: 12.0.1-3
 
 Bindings.lua
