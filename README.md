@@ -7,8 +7,3 @@ World Marker Bindings is a lightweight addon that adds direct keybindings for Wo
 - Keybindings for placing World Markers at cursor position
 - Works in combat (secure action buttons)
 - No external dependencies
-
-## Installation
-1. Extract the WorldMarkerBindings folder into your Interface/AddOns directory.
-2. Reload the game (/reload).
-3. Assign keys in Options → Keybindings → World Marker Bindings.
